@@ -28,7 +28,7 @@
     <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
 
     <jimfs.version>1.1</jimfs.version>
-    <undertow.version>2.0.28.Final</undertow.version>
+    <undertow.version>2.2.15.Final</undertow.version>
   </properties>
 
   <dependencies>
